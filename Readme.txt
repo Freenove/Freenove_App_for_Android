@@ -6,7 +6,7 @@ How to download
 
 Files
   The files for this product and their introduction are as follows:
-    Freenove*.apk    Android application installation package.
+    Freenove.apk    Android application installation package.
     Readme.txt      Instructions
     Tutorial.pdf    Tutorial
 
